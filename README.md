@@ -1,15 +1,5 @@
-#### React Router Fix
+# The Cocktail DB
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+- Show lists of your favorite cocktail drinks from <a href="https://www.thecocktaildb.com/">TheCocktailDB</a> using ReactJS.
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+## Live preview
